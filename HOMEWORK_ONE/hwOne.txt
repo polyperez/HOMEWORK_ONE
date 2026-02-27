@@ -1,0 +1,12 @@
+﻿Hello
+world
+Hello, my name is “Victor”
+Hello, my name is “Victor” and I am working on hw1
+
+Hello, our names are Victor and Andrew and we are working on
+hw4 together
+
+Hello, our names are Victor and Keana and we are working on
+hw4 together
+
+﻿Hello, our names are “Victor” and Grayden Eriksen and we are working on hw4 together
